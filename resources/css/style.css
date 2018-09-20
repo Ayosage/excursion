@@ -1,0 +1,16 @@
+html {
+  font-family: verdana;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+h1 {
+  font-size: 50px;
+
+}
+
+#dl {
+  color: aquamarine;
+  font-weight: 16px
+}
